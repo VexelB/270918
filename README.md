@@ -1,2 +1,3 @@
 # 270918
-<script src="/index.js"></script>
+<script src="/main.js"></script>
+см. консоль
